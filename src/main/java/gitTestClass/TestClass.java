@@ -2,6 +2,6 @@ package gitTestClass;
 
 public class TestClass {
     int myBetterMethod() {
-        return -2;
+        return -3;
     }
 }
